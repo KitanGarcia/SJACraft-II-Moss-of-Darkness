@@ -1,0 +1,21 @@
+# Path to frames
+./TreeGrowth.png
+# Number of frames
+16
+# Frame names
+seedling-1-0
+seedling-1-1
+seedling-2-0
+seedling-2-1
+seedling-4-0
+seedling-4-1
+seedling-8-0
+seedling-8-1
+adolescent-1-0
+adolescent-1-1
+adolescent-2-0
+adolescent-2-1
+adolescent-4-0
+adolescent-4-1
+adolescent-8-0
+adolescent-8-1
