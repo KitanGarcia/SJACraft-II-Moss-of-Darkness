@@ -1,0 +1,11 @@
+# Path to frames
+./GoldMine.png
+# Number of frames
+6
+# Frame names
+vein
+construct-0
+construct-1
+inactive
+active
+place
