@@ -1,4 +1,4 @@
-archer, basic, buildings, knight, misc, music, and peasant should be moved to the snd folder
+archer, basic, buildings, knight, misc, music, and peasant should be moved to the snd folder (which is in data, which is in bin)
 
 # ECS160Linux
 ECS 160 Project Linux
